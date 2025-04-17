@@ -33,9 +33,9 @@ Ceci est un projet de guide touristique pour les personnes qui veulent visiter l
 - Ouvrir le terminal dans le dossier où vous voulez cloner le projet et taper la commande : git clone https://github.com/votre-nom-de-utilisateur/projet-guide-touristique.git
 - Ouvrir le dossier projet-guide-touristique dans votre éditeur de code
 - Dans vscode, aller dans extensions et chercher live server et l'installer
-![image](https://github.com/user-attachments/assets/93871e44-7af6-4989-b4cd-13af0ae7cd3d)
+- ![image](https://github.com/user-attachments/assets/93871e44-7af6-4989-b4cd-13af0ae7cd3d)
 - Aller dans le fichier index.html et cliquer sur le bouton go live
-![image](https://github.com/user-attachments/assets/96a4fc48-d33b-4f2b-870e-da73d02f314f)
+- ![image](https://github.com/user-attachments/assets/96a4fc48-d33b-4f2b-870e-da73d02f314f)
 - Ouvrir le fichier index.html dans un navigateur
 - Pour fermer le server, juste cliquer sur
 - ![image](https://github.com/user-attachments/assets/081c2c00-a059-4b99-90ae-3b9d7fd6119d)
